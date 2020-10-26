@@ -8,4 +8,3 @@ public class Main {
         System.out.println(p1.distanceTo(p2));
     }
 }
-    git remote add origin git@github.com:Vladhadka/Point.git
